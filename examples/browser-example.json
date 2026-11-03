@@ -1,0 +1,94 @@
+{
+  "input": {
+    "transcript": "WEBVTT\n\n00:00:00.000 --> 00:00:04.000\nThe shop was quiet when we opened the shutters.\n\n00:00:04.000 --> 00:00:08.000\nMy grandmother taught me to welcome every visitor.\n\n00:00:08.000 --> 00:00:13.000\nI still keep her notebook beside the counter.",
+    "query": "grandmother",
+    "language": "English"
+  },
+  "output": {
+    "title": "A story you can trace back to its voice",
+    "status": "BROWSER TRANSCRIPT SEARCH",
+    "message": "The included story is a fictional script. Text in a second language is preserved as supplied; automatic translation is not claimed.",
+    "metrics": [
+      [
+        "Source segments",
+        3,
+        "English"
+      ],
+      [
+        "Matches",
+        1,
+        "Exact text search"
+      ]
+    ],
+    "sections": [
+      {
+        "title": "Search results",
+        "headers": [
+          "Source",
+          "Time",
+          "Exact words"
+        ],
+        "rows": [
+          [
+            "S2",
+            "4.0–8.0s",
+            "My grandmother taught me to welcome every visitor."
+          ]
+        ]
+      },
+      {
+        "title": "Source timeline",
+        "headers": [
+          "Segment",
+          "Start",
+          "End",
+          "Transcript"
+        ],
+        "rows": [
+          [
+            "S1",
+            0,
+            4,
+            "The shop was quiet when we opened the shutters."
+          ],
+          [
+            "S2",
+            4,
+            8,
+            "My grandmother taught me to welcome every visitor."
+          ],
+          [
+            "S3",
+            8,
+            13,
+            "I still keep her notebook beside the counter."
+          ]
+        ]
+      }
+    ],
+    "data": {
+      "segments": [
+        {
+          "id": "S1",
+          "start": 0,
+          "end": 4,
+          "text": "The shop was quiet when we opened the shutters."
+        },
+        {
+          "id": "S2",
+          "start": 4,
+          "end": 8,
+          "text": "My grandmother taught me to welcome every visitor."
+        },
+        {
+          "id": "S3",
+          "start": 8,
+          "end": 13,
+          "text": "I still keep her notebook beside the counter."
+        }
+      ],
+      "language": "English",
+      "query": "grandmother"
+    }
+  }
+}

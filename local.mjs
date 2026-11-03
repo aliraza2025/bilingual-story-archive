@@ -1,0 +1,1 @@
+import {python} from './python.mjs';import {runDemo,present} from './public/core.js';export async function runLocal({input}){return runDemo(input);}export async function runAudio(input){const output=await python('scripts/transcribe.py',input);return present(output.segments,'',output.language,'LOCAL FASTER-WHISPER / ACTUAL TRANSCRIPTION');}
