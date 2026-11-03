@@ -12,5 +12,6 @@
     "test": "node --test",
     "build": "node build.mjs",
     "start": "node server.mjs"
-  }
+  },
+  "description": "Riwayat \u2014 A searchable archive for spoken stories. An independent Raza Labs prototype by Ali Raza."
 }

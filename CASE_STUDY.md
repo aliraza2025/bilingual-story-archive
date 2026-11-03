@@ -1,4 +1,4 @@
-# Bilingual Story Archive — product case study
+# Riwayat — product case study
 
 Stage: independent prototype.
 

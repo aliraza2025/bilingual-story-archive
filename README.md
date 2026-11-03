@@ -1,6 +1,8 @@
-# Bilingual Story Archive
+# Riwayat
 
-![Project cover](public/cover.svg)
+**A searchable archive for spoken stories · Raza Labs by Ali Raza**
+
+![Concept artwork for Riwayat](public/project-cover.webp)
 
 A timestamped story explorer preserving multilingual source text, with local faster-whisper transcription and source-linked search.
 
@@ -52,3 +54,7 @@ The original browser source is in `public/`. `docs/` is generated for GitHub Pag
 Use permission-cleared recordings across chosen languages and compare word error rate and timestamp alignment with corrected references.
 
 License: [MIT](LICENSE) for this repository's original source. See each dependency and model card for their respective terms.
+
+## Visual identity
+
+Original AI-generated concept artwork for the Raza Labs collection, matched to Ali Raza’s midnight-purple and pink portfolio studio. The cover is illustrative artwork; the interactive demo shows the actual prototype. Generation prompt: [ARTWORK.md](ARTWORK.md).

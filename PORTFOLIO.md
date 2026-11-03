@@ -1,6 +1,8 @@
 # Portfolio card
 
-**Bilingual Story Archive**
+**Riwayat**
+
+A searchable archive for spoken stories · Raza Labs by Ali Raza
 
 Category: Speech and storytelling
 
@@ -17,3 +19,5 @@ Repository: https://github.com/aliraza2025/bilingual-story-archive
 Demo: https://aliraza2025.github.io/bilingual-story-archive/
 
 Scope qualification: The English recording and supplied bilingual text are fictional fixtures. One local English ASR run does not establish language or dialect accuracy. Automatic translation and real oral-history collection are not claimed.
+
+Cover artwork: https://aliraza2025.github.io/bilingual-story-archive/project-cover.webp
